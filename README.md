@@ -1,0 +1,1 @@
+Atividades do curso Dominando o ASP.NET MVC Core 2.x da plataforma Desenvolvedor.io. Exercicios para compreender a criar de forma limpa e padronizada de aplicacoes MVC, conexao com o banco de dados, logins, Logs e outras funcionalidades.

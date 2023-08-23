@@ -1,0 +1,28 @@
+﻿@model AppMvc.Models.Filme
+
+@{
+    ViewData["Title"] = "Criar";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<h4>Filme</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            
+            <partial name="_DadosFormulario" />
+
+        </form>
+    </div>
+</div>
+
+<div class="p-1">
+    <a asp-action="Index" >Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Henrique.AppModelo
+build_property.RootNamespace = Henrique.AppModelo
+build_property.ProjectDir = D:\Área de trabalho\Estudos\ProjetosTI\Desenvolvedor io\DominandoAspNetMvc\AppModelo\src\Henrique.AppModelo\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Área de trabalho\Estudos\ProjetosTI\Desenvolvedor io\DominandoAspNetMvc\AppModelo\src\Henrique.AppModelo
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Área de trabalho/Estudos/ProjetosTI/Desenvolvedor io/DominandoAspNetMvc/AppModelo/src/Henrique.AppModelo/Modulos/Produtos/Views/Cadastro/Busca.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxvc1xQcm9kdXRvc1xWaWV3c1xDYWRhc3Ryb1xCdXNjYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de trabalho/Estudos/ProjetosTI/Desenvolvedor io/DominandoAspNetMvc/AppModelo/src/Henrique.AppModelo/Modulos/Produtos/Views/Cadastro/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxvc1xQcm9kdXRvc1xWaWV3c1xDYWRhc3Ryb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de trabalho/Estudos/ProjetosTI/Desenvolvedor io/DominandoAspNetMvc/AppModelo/src/Henrique.AppModelo/Modulos/Produtos/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxvc1xQcm9kdXRvc1xWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de trabalho/Estudos/ProjetosTI/Desenvolvedor io/DominandoAspNetMvc/AppModelo/src/Henrique.AppModelo/Modulos/Vendas/Views/Pedidos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxvc1xWZW5kYXNcVmlld3NcUGVkaWRvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de trabalho/Estudos/ProjetosTI/Desenvolvedor io/DominandoAspNetMvc/AppModelo/src/Henrique.AppModelo/Modulos/Vendas/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxvc1xWZW5kYXNcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de trabalho/Estudos/ProjetosTI/Desenvolvedor io/DominandoAspNetMvc/AppModelo/src/Henrique.AppModelo/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de trabalho/Estudos/ProjetosTI/Desenvolvedor io/DominandoAspNetMvc/AppModelo/src/Henrique.AppModelo/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de trabalho/Estudos/ProjetosTI/Desenvolvedor io/DominandoAspNetMvc/AppModelo/src/Henrique.AppModelo/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de trabalho/Estudos/ProjetosTI/Desenvolvedor io/DominandoAspNetMvc/AppModelo/src/Henrique.AppModelo/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
