@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jj6l0dhDBGlvwtrXuOuk+ZKVJDIQP1b3jdH7ucgbbA+rEnvEJL0iceB7/rCBhtnH4JBfPNIX+/0HuAheRnuPgQ==",
+  "dgSpecHash": "e7o0hOYHJRKzypYK3f9qz7CWm2mG3DIn4A65s1xiB7thV1w8soGs7RKxEFToIWYUPLYwa2coFAOlyXpeutjn2g==",
   "success": true,
-  "projectFilePath": "D:\\Área de trabalho\\Estudos\\ProjetosTI\\Desenvolvedor io\\DominandoAspNetMvc\\AspNetCoreIdentity\\AspNetCoreIdentity\\AspNetCoreIdentity.csproj",
+  "projectFilePath": "D:\\Área de trabalho\\Estudos\\ProjetosTI\\Desenvolvedor io\\DominandoAspNetMvc2.x\\AspNetCoreIdentity\\AspNetCoreIdentity\\AspNetCoreIdentity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Henrique\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Henrique\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

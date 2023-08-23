@@ -12172,11 +12172,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Área de trabalho\\Estudos\\ProjetosTI\\Desenvolvedor io\\DominandoAspNetMvc\\AspNetCoreIdentity\\AspNetCoreIdentity\\AspNetCoreIdentity.csproj",
+      "projectUniqueName": "D:\\Área de trabalho\\Estudos\\ProjetosTI\\Desenvolvedor io\\DominandoAspNetMvc2.x\\AspNetCoreIdentity\\AspNetCoreIdentity\\AspNetCoreIdentity.csproj",
       "projectName": "AspNetCoreIdentity",
-      "projectPath": "D:\\Área de trabalho\\Estudos\\ProjetosTI\\Desenvolvedor io\\DominandoAspNetMvc\\AspNetCoreIdentity\\AspNetCoreIdentity\\AspNetCoreIdentity.csproj",
+      "projectPath": "D:\\Área de trabalho\\Estudos\\ProjetosTI\\Desenvolvedor io\\DominandoAspNetMvc2.x\\AspNetCoreIdentity\\AspNetCoreIdentity\\AspNetCoreIdentity.csproj",
       "packagesPath": "C:\\Users\\Henrique\\.nuget\\packages\\",
-      "outputPath": "D:\\Área de trabalho\\Estudos\\ProjetosTI\\Desenvolvedor io\\DominandoAspNetMvc\\AspNetCoreIdentity\\AspNetCoreIdentity\\obj\\",
+      "outputPath": "D:\\Área de trabalho\\Estudos\\ProjetosTI\\Desenvolvedor io\\DominandoAspNetMvc2.x\\AspNetCoreIdentity\\AspNetCoreIdentity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
