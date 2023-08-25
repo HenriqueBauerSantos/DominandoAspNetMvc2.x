@@ -13,6 +13,8 @@ namespace AspNetCoreIdentity.Config
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
             services.AddScoped(context => Logger.Factory.Get());
 
+            services.AddScoped<AuditoriaFilter>();
+
             return services;
         }
     }

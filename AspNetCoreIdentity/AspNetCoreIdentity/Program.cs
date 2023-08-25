@@ -44,7 +44,10 @@ builder.Services.RegisterKissLogListeners();
 builder.Services.AddHttpContextAccessor();
 
 // Add services to the container.
-builder.Services.AddControllersWithViews();
+builder.Services.AddControllersWithViews(Options =>
+{
+    Options.Filters.Add(typeof(AuditoriaFilter));
+});
 
 var app = builder.Build();
 
