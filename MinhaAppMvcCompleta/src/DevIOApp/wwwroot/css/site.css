@@ -20,3 +20,14 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+input,
+select,
+file,
+textarea{
+    max-width: 400px;
+}
+
+.form-control{
+    margin-block-end: 15px;
+}

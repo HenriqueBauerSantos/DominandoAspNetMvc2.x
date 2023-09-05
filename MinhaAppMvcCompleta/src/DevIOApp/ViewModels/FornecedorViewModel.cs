@@ -1,5 +1,4 @@
-﻿using AppMvcBasica.Models;
-using System.ComponentModel;
+﻿using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
 namespace DevIOApp.ViewModels
@@ -24,6 +23,7 @@ namespace DevIOApp.ViewModels
 
         [DisplayName("Ativo?")]
         public bool Ativo { get; set; }
+
         public IEnumerable<ProdutoViewModel> Produtos { get; set; }
     }
 }
